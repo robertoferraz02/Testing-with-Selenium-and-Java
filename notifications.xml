@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Test Runner" displayType="STICKY_BALLOON" />
+  </component>
+</application>
