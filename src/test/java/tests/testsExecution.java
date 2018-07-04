@@ -8,7 +8,7 @@ import org.junit.Test;
 import org.openqa.selenium.WebDriver;
 
 
-public class firstStep {
+public class testsExecution {
 
     private WebDriver driver;
 
