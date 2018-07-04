@@ -25,7 +25,8 @@ public class testsExecution {
                 .newUser()
                 .typeEmail("teste5@hotmail.com")
                 .typeFirstName("Roberto")
-                .typeLastName("Ferraz");
+                .typeLastName("Ferraz")
+                .selectSate("Texas");
 
     }
 
